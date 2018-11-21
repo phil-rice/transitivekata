@@ -4,4 +4,4 @@ For example if A < B  and B < C then A < C.
 
 The file in transitive.txt holds the data. 
 
-We want to be answer questions like 'is a human an animal'
+We want to be answer questions like 'is a human an animal', 'get me the list of all animals'
