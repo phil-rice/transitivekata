@@ -7,3 +7,5 @@ Canine Dog Jackel
 Feline Cat Lion Tiger
 Primate Ape Monkey Human
 Plant Tulip SunFlower
+Sapient Human
+Sentient Dog Jackel Cat Lion Tiger Ape Monkey
