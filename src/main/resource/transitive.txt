@@ -1,6 +1,6 @@
 Entity Animal Plant Vegetable
 
-Intellect Sapient Sentient
+
 Animal Reptile Mammel Fish Bird CthulhoidHorror
 Mammel Feline Canine Primate
 CthulhoidHorror Cthulhu SpawnOfNyarlathotep
